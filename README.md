@@ -1,0 +1,1 @@
+# GWM — Grig's Window Manager

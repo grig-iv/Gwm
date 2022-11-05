@@ -1,0 +1,35 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "src", "src", "{F006D9D2-C8AE-4EF0-9C39-99C74D56E47F}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Gwm", "Gwm\Gwm.csproj", "{F471004D-C584-4BD7-BBC4-27818E1ABD51}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Gwm.Commands", "Gwm.Commands\Gwm.Commands.csproj", "{B64231C9-27E3-4F8C-BDC0-2130AE580503}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Gwmc", "Gwmc\Gwmc.csproj", "{9A156278-A138-48D5-8CED-C62320E517F9}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{F471004D-C584-4BD7-BBC4-27818E1ABD51} = {F006D9D2-C8AE-4EF0-9C39-99C74D56E47F}
+		{B64231C9-27E3-4F8C-BDC0-2130AE580503} = {F006D9D2-C8AE-4EF0-9C39-99C74D56E47F}
+		{9A156278-A138-48D5-8CED-C62320E517F9} = {F006D9D2-C8AE-4EF0-9C39-99C74D56E47F}
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F471004D-C584-4BD7-BBC4-27818E1ABD51}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F471004D-C584-4BD7-BBC4-27818E1ABD51}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F471004D-C584-4BD7-BBC4-27818E1ABD51}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F471004D-C584-4BD7-BBC4-27818E1ABD51}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B64231C9-27E3-4F8C-BDC0-2130AE580503}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B64231C9-27E3-4F8C-BDC0-2130AE580503}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B64231C9-27E3-4F8C-BDC0-2130AE580503}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B64231C9-27E3-4F8C-BDC0-2130AE580503}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9A156278-A138-48D5-8CED-C62320E517F9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9A156278-A138-48D5-8CED-C62320E517F9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9A156278-A138-48D5-8CED-C62320E517F9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9A156278-A138-48D5-8CED-C62320E517F9}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
